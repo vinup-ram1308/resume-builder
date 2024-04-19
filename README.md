@@ -49,3 +49,6 @@ Add other skills if necessary.
 6.Click the "GENERATE RESUME" button to generate a PDF file containing the entered details.
 
 
+## License
+
+This project is licensed under [MIT License](https://github.com/vinup-ram1308/resume-builder/blob/329fd0c1483c4454a92425ec11cd64570389e4b3/LICENSE).
