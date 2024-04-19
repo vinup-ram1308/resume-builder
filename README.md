@@ -5,13 +5,13 @@ This is a simple CV builder application that generates a PDF resume based on use
 
 ## Installation
 
-1.Clone the repository to your local machine:
+1. Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/vinup-ram1308/resume-builder
 
 ```
-2.Compile the java files and run the application:
+2. Compile the java files and run the application:
 
 ```bash
 javac com/company/CV.java
@@ -47,3 +47,5 @@ Add other skills if necessary.
 5.Add an image to the CV by clicking the "SELECT IMAGE" button and selecting an image file.
 
 6.Click the "GENERATE RESUME" button to generate a PDF file containing the entered details.
+
+
